@@ -1,7 +1,7 @@
 # Machine Learning for Software Engineers"
 This is a repo for my course "Machine Learning for Software Engineers"
 
-# Enviroment setup
+# Environment setup
 ```bash
 conda create -n ds python=3.7
 conda activate ds
